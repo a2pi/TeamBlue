@@ -1,0 +1,11 @@
+Diary - Team Blue
+
+24.02 ---------------------------------------------------------------------
+
+Professor was not in class,  André and Sandro setted up Github repository and configured it on Eclipse.
+We still need the Github account of the other team members, so they can be invited to the repository.
+
+for the next class,it has to be discussed with the professor if any additional configuration for SVN has to be made
+And the configuration for the other team members should be concluded.
+-------------------------------------------------------------------------------------------------
+
